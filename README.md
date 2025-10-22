@@ -46,6 +46,11 @@ You’ll be evaluated on your ability to:
 - Assume this is **production code**—make it robust and future-proof.
 
 ---
+
+## 📨 Submission
+- Share your completed code with us as a zip file using a file sharing service (eg: [Wormhole](https://wormhole.app/))
+
+---
 ## ⚠️ Disclaimer
 This project is **intentionally flawed** and designed as a basic refactoring exercise. It is **not** representative of real-world production code.
 
